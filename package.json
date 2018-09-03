@@ -1,7 +1,7 @@
 {
-  "name": "webpack-react-express",
+  "name": "React16.4.2Express",
   "version": "1.0.0",
-  "description": "Boilerplate webpack-react-express",
+  "description": "Boilerplate react express",
   "main": "index.js",
   "scripts": {
     "client": "webpack-dev-server --mode development --devtool inline-source-map --hot",
@@ -10,8 +10,8 @@
     "build": "webpack --mode production",
     "lint": "eslint --ignore-path .gitignore --ignore-pattern node_modules -- ."
   },
-  "author": "Evgeny Roskach",
-  "license": "ISC",
+  "author": "Murugar",
+  "license": "free",
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "@babel/plugin-proposal-export-default-from": "^7.0.0",
